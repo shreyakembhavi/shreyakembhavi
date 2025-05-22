@@ -19,7 +19,7 @@
 ---
 
 ### 🧰 Tech Stack
-`Python` `JavaScript` `React` `Node.js` `MongoDB` `Figma` `Firebase` `Flask` `Tailwind` `TensorFlow`
+`Python` `JavaScript` `React` `Node.js` `MongoDB` `Figma` `Firebase` `Flask` `Tailwind` `TensorFlow` `BeautifulSoup` `MERN Stack` `OpenAI`
 
 ---
 
