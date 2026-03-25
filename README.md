@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Shreya Kembhavi
 
-🎓 CS student @ Hofstra | AI & UX Enthusiast | Dean’s List 2024  
+🎓 CS student @ Hofstra | AI & UX Enthusiast | Dean’s List 2024 & 2025
 💡 I build smart tools that blend design, AI, and real-world utility.  
 🌱 Currently building: AI-driven apps for mental health, sustainable commerce, and lifestyle.
 
