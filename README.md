@@ -56,8 +56,7 @@ I like taking ideas from early product direction through system design, model de
 
 ## ♡ what i care about
 
-Human-centered AI · thoughtful product experiences · trustworthy technology · creative tools · systems that make complicated things easier to understand
-
+human-centered AI · thoughtful product experiences · trustworthy technology · creative tools · women in AI
 ## <img src="./assets/icons/trophy.svg" width="21" alt="" /> a few wins
 
 - **SafeClick AI** · Hofstra × Pensar Hackathon · 1st Place and Most Secure
